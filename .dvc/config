@@ -1,0 +1,4 @@
+[core]
+    remote = mlopssid
+['remote "mlopssid"']
+    url = s3://mlopssid
